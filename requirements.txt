@@ -1,0 +1,11 @@
+certifi==2019.11.28
+click==7.1.1
+decorator==4.4.2
+decord
+jellyfish==0.7.2
+networkx==2.4
+numpy==1.18.1
+regex==2020.2.20
+segtok==1.5.7
+tabulate==0.8.6
+yake
